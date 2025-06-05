@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+th{
+  width: 120px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+td{
+  padding: 10px;
+}
+.time{
+  height: 40;
+}
+.Event {
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* Example color classes */
+.red {
+  background-color: #e74c3c;
+}
+
+.blue {
+  background-color: #3498db;
+}
+
+.green {
+  background-color: #27ae60;
+}
+
+.yellow {
+  background-color: #f1c40f;
+  color: #333;
+}
